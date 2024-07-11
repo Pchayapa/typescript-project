@@ -1,4 +1,4 @@
-# TypeScript Project: Merge Sorted Arrays
+# TypeScript Project: Merge Sorted
 
 This project implements a TypeScript function to merge three sorted integer arrays into a single sorted array in ascending order.
 
