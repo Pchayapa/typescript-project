@@ -1,8 +1,14 @@
-# Project name "typescript-project"
-This project implements a TypeScript function to merge three sorted integer arrays into a single sorted array by ascending order.
+# TypeScript Project: Merge Sorted Arrays
+
+This project implements a TypeScript function to merge three sorted integer arrays into a single sorted array in ascending order.
 
 ## Installation
-To use this project, ensure you have Node.js and npm installed. Then, follow these steps:
--Step 1: Clone the repository: 
--Step 2: cd merge-sorted
--Step 3: npm install
+
+Before running the project, ensure you have Node.js and npm installed on your machine.
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Pchayapa/typescript-project.git
+cd typescript-project
+npm install
